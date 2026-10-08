@@ -1,0 +1,4 @@
+build/
+*.o
+myshell
+a.out
